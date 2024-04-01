@@ -1,12 +1,14 @@
-YouTube-ReX: 19.08.36  
+Music-RVX (arm-v7a): 6.45.54  
+Music-RVX (arm64-v8a): 6.45.54  
+YouTube-RVX: 19.11.38  
 
-Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for non-root YouTube and YT Music  
+Install [Revanced GmsCore](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music  
 Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) module to detach YouTube and YT Music from Play Store  
 
-[rex-magisk-module](https://github.com/LemonyOwO/rex-magisk-module)  
+[rvx-magisk-module](https://github.com/LemonyOwO/rvx-magisk-module)  
 
 Changelog:  
-CLI: j-hc/revanced-cli-4.3.0-all.jar  
-Integrations: YT-Advanced/revanced-integrations-0.146.0.apk  
-Patches: YT-Advanced/revanced-patches-2.220.9.jar  
-[Changelog](https://github.com/YT-Advanced/ReX-patches/releases/tag/v2.220.9)  
+CLI: j-hc/revanced-cli-4.5.0-all.jar  
+Integrations: anddea/revanced-integrations-0.150.0-dev.5.apk  
+Patches: anddea/revanced-patches-2.223.0-dev.24.jar  
+[Changelog](https://github.com/anddea/revanced-patches/releases/tag/vdev.24)  
