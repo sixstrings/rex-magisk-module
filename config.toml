@@ -29,7 +29,7 @@ arch = "both"
 
 [YouTube-RVX]
 app-name = "YouTube"
-build-mode = "both"
+build-mode = "modu6"
 version = "19.16.39"
 patches-source = "anddea/revanced-patches"
 integrations-source = "anddea/revanced-integrations"
