@@ -1,7 +1,6 @@
 enable-magisk-update = true # set this to false if you do not want to receive up
 workflow_dispatch:
-  schedule:
-- cron: "0 16 * * */3" (alle 3 Tage)
+schedule:- cron: "0 16 * * */3"
 
 # you can use rvmm-config-gen to generate a config
 
